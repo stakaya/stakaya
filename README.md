@@ -57,18 +57,6 @@ const stakaya = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stakaya&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-[![Repositories](https://img.shields.io/badge/Repositories-Explore-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stakaya?tab=repositories)
-
-</div>
-
----
-
 ## 🏆 GitHub Trophies
 
 <div align="center">
