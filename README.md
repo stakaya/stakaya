@@ -88,10 +88,12 @@ const stakaya = {
 
 ## 🌱 Current Focus
 
-- AI-augmented QA
-- Playwright / TypeScript
-- Model Context Protocol (MCP) integration
-- Home lab / infrastructure
+```
+AI-Augmented QA  ████████████░░░  80%
+Playwright / TS  ███████████░░░░  75%
+MCP Integration  ████████░░░░░░░  55%
+Home Lab / Infra ██████░░░░░░░░░  40%
+```
 
 ---
 
