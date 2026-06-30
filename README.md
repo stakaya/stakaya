@@ -61,8 +61,8 @@ const stakaya = {
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stakaya&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stakaya&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stakaya)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stakaya)
 
 </div>
 
@@ -72,7 +72,7 @@ const stakaya = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=stakaya&theme=darkhub&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-repo.vercel.app/?username=stakaya)
 
 </div>
 
