@@ -61,8 +61,9 @@ const stakaya = {
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=stakaya)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=stakaya)
+[![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -72,7 +73,7 @@ const stakaya = {
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stakaya&theme=github_dark)
+[![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=stakaya&theme=darkhub&no-frame=true&column=7&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
