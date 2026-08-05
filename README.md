@@ -59,23 +59,15 @@ const stakaya = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/stakaya/stakaya/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-</div>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-
 ![](https://github-profile-repo.vercel.app/?username=stakaya)
-
-</div>
 
 ---
 
