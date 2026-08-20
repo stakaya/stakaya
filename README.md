@@ -82,10 +82,10 @@ const stakaya = {
 ## 🌱 Current Focus
 
 ```
-AI-Augmented QA  ████████████░░░  80%
+Home Lab / Infra ████████████░░░  80% 
 Playwright / TS  ███████████░░░░  75%
 MCP Integration  ████████░░░░░░░  55%
-Home Lab / Infra ██████░░░░░░░░░  40%
+AI-Augmented QA  ███████░░░░░░░░  40% 
 ```
 
 ---
